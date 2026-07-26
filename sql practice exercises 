@@ -1,0 +1,34 @@
+## 🚀 Getting Started
+
+1. Clone this repository
+2. Choose a topic from the folders above
+3. Read the `.sql` files and practice queries
+4. Run queries against your local database
+
+## 💾 Databases Used
+
+- MySQL / PostgreSQL / SQLite (specify yours)
+
+## 📝 Example Queries
+
+[Add sample queries here]
+
+## 🎯 Learning Goals
+
+- [ ] Master SELECT statements
+- [ ] Understand JOINs and relationships
+- [ ] Practice aggregate and window functions
+- [ ] Write optimized queries
+
+## 📖 Resources
+
+- [W3Schools SQL](https://www.w3schools.com/sql/)
+- [SQL Tutorial](https://sqlzoo.net/)
+
+## 💡 Contributing
+
+Feel free to add more examples or improvements!
+
+## 📄 License
+
+This project is open source under the MIT License.
